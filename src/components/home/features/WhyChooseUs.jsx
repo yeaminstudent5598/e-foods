@@ -51,7 +51,7 @@ const WhyChooseUs = () => {
     <section className="py-16 bg-gray-50">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">
-          কেন <span className="text-green-700">e-foods</span> সেরা?
+          কেন <span className="text-green-700">porerbazarbd</span> সেরা?
         </h2>
         
         <motion.div 
