@@ -10,7 +10,7 @@ const demoAddresses = [
     type: "Home",
     isDefault: true,
     name: "Yeamin Student",
-    phone: "+8801716342167",
+    phone: "+8801641801705",
     address: "House 123, Road 4, Block B, Basundhara R/A, Dhaka-1229"
   },
   {
@@ -18,7 +18,7 @@ const demoAddresses = [
     type: "Office",
     isDefault: false,
     name: "Yeamin Student",
-    phone: "+8801716342167",
+    phone: "+8801641801705",
     address: "Level 5, ABC Tower, Gulshan 1, Dhaka-1212"
   }
 ];
