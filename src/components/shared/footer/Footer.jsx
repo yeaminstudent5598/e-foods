@@ -40,17 +40,17 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           
-          {/* কলাম ১: About e-foods */}
+          {/* কলাম ১: About porerbazarbd */}
           <div className="space-y-4">
             <Link to="/"> {/* === a ট্যাগকে Link দিয়ে পরিবর্তন === */}
               <img 
-                src="/path-to-your-logo/efoodis-logo-white.png" // একটি সাদা/লাইট লোগো ব্যবহার করুন
-                alt="e-foods" 
-                className="h-14 mb-4" 
+                src="https://i.ibb.co.com/vxsq679p/Gemini-Generated-Image-deyncbdeyncbdeyn-removebg-preview.png" // একটি সাদা/লাইট লোগো ব্যবহার করুন
+                alt="porerbazarbd" 
+                className="h-14 mb-4 text-green-500" 
               />
             </Link>
             <p className="text-sm leading-relaxed">
-              গ্রামীণ ঐতিহ্যে e-foods অনলাইন শপে আপনাকে স্বাগতম। বিশ্বস্ততার সাথে সারা বাংলাদেশে খাঁটি ও অর্গানিক পণ্যের হোম ডেলিভারী দিয়ে থাকি।
+              গ্রামীণ ঐতিহ্যে porerbazarbd অনলাইন শপে আপনাকে স্বাগতম। বিশ্বস্ততার সাথে সারা বাংলাদেশে খাঁটি ও অর্গানিক পণ্যের হোম ডেলিভারী দিয়ে থাকি।
             </p>
             <div className="space-y-2">
               <div className="flex items-start gap-3">
@@ -60,7 +60,7 @@ const Footer = () => {
               <div className="flex items-center gap-3">
                 <Phone size={18} className="text-green-400 flex-shrink-0" />
                 <span className="text-sm hover:text-white transition-colors">
-                  <a href="tel:+8801716342167">+8801716342167</a> {/* ফোন নম্বর ঠিক করে দিয়েছি */}
+                  <a href="tel:+8801641801705">+8801641801705</a> {/* ফোন নম্বর ঠিক করে দিয়েছি */}
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -147,7 +147,7 @@ const Footer = () => {
         {/* --- Bottom Bar --- */}
         <div className="border-t border-gray-700 mt-12 pt-6 text-center text-sm">
           <p>
-            &copy; {new Date().getFullYear()} e-foodis. All Rights Reserved. 
+            &copy; {new Date().getFullYear()} porerbazar. All Rights Reserved. 
             Developed by <a href="https://pixelandcodeweb.vercel.app/" className="font-medium text-green-400 hover:text-white" target="_blank" rel="noopener noreferrer">Pixel & Code</a>.
           </p>
         </div>
