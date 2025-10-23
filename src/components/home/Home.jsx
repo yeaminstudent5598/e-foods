@@ -6,6 +6,7 @@ import Deals from "./dealsOfTheDay/Deals";
 import WhyChooseUs from "./features/WhyChooseUs";
 import OurProcess from "./process/OurProcess";
 import Testimonials from "./testimonials/Testimonials";
+import FeaturedProducts from "./featuredProducts/FeaturedProducts";
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
             <CategoryShop/>
             <WhyChooseUs />
             <Bestsellers />
+            <FeaturedProducts/>
             <Deals/>
             <OurProcess/>
             <FAQPage/>
