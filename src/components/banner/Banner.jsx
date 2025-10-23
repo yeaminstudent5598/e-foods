@@ -16,19 +16,19 @@ const Banner = () => {
       >
         <SwiperSlide >
           <img
-            src="https://i.ibb.co/VnVKsQ3/Web-Bannar-Artboard-3.jpg"
+            src="https://i.ibb.co.com/PsVdzbF7/Gemini-Generated-Image-rlb5fmrlb5fmrlb5.png"
             alt=""
           />
         </SwiperSlide>
         <SwiperSlide >
           <img
-            src="https://i.ibb.co/KRb2zK7/Web-Bannar-Artboard-1.jpg"
+            src="https://i.ibb.co.com/HLsbnyYR/Gemini-Generated-Image-ux5svqux5svqux5s.png"
             alt=""
           />
         </SwiperSlide>
         <SwiperSlide >
           <img
-            src="https://i.ibb.co/3Y566nkd/Web-Bannar-Artboard-2.jpg"
+            src="https://i.ibb.co.com/7dZfngLj/Gemini-Generated-Image-g2grvpg2grvpg2gr.png"
             alt=""
             
           />
