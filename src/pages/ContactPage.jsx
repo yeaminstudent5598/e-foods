@@ -95,10 +95,10 @@ const ContactPage = () => {
                 <h4 className="text-xl font-semibold text-gray-800">ফোন</h4>
                 <p className="text-gray-600 mb-1">যেকোনো তথ্যের জন্য কল করুন (সকাল ১০টা - রাত ৮টা)</p>
                 <a 
-                  href="tel:+8801716342167" 
+                  href="tel:+8801641801705" 
                   className="text-lg font-medium text-green-700 hover:underline"
                 >
-                  +8801716342167
+                  +8801641801705
                 </a>
               </div>
             </div>
