@@ -51,7 +51,7 @@ const Navbar = () => {
         <div className="container mx-auto flex justify-between items-center px-4 text-xs md:text-sm">
           <div className="flex items-center gap-2">
             <Phone size={16} />
-            <span>+8801716342167</span>
+            <span>+8801641801705</span>
           </div>
           <div className="hidden md:block flex-grow overflow-hidden mx-8">
             <Marquee pauseOnHover={true} speed={40} gradient={false}>
@@ -69,8 +69,8 @@ const Navbar = () => {
         <div className="container mx-auto flex justify-between items-center px-4 gap-4">
           <Link to="/" className="flex-shrink-0">
             <motion.img 
-              src="https://www.shutterstock.com/image-vector/letter-e-logo-symbol-template-260nw-1521105263.jpg" 
-              alt="e-foods" 
+              src="https://i.ibb.co.com/vxsq679p/Gemini-Generated-Image-deyncbdeyncbdeyn-removebg-preview.png" 
+              alt="porerbazarbd" 
               className="h-12 md:h-14" 
               whileHover={{ scale: 1.05 }}
             />
